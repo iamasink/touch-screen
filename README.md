@@ -6,3 +6,6 @@ https://switchbrew.org/wiki/HID_services
 
 # installation
 put touch-screen.nro it in your homebrew apps folder :)  
+
+# credits
+thank you [@Boccher](https://www.github.com/Boccher) for idea and testing
