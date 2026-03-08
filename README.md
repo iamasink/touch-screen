@@ -6,7 +6,7 @@ https://switchbrew.org/wiki/HID_services
 
 # installation
 download from releases https://github.com/iamasink/touch-screen/releases  
-put touch-screen.nro it in your homebrew apps folder :)  
+put `touch-screen.nro` in your sd card's switch folder :)  
 
 # credits
 thank you [@Boccher](https://www.github.com/Boccher) for idea and testing
